@@ -11,9 +11,9 @@ Since humans could first postulate about outer space, our imaginations have been
     - [Final Report](https://docs.google.com/document/d/14Gic_16qEgUQGUonp4LaZ705UrPasQe-BGcTkaDQsqQ/edit?usp=sharing)
     - [Presentation](https://docs.google.com/presentation/d/1TPcuEFrVLo_sMPPajqpGhc4c2OlM9zEsl6hoXCvYbfs/edit?usp=sharing)
 3. Notebooks  
-    - [CNN Model Library]()
-    - [Exploratory Data Analysis]()
-    - [Final Model](https://github.com/maessery/SETI-Radio-Signal-Image-Classification/blob/main/seti-deep-learning-signal-image-processing%20(2).ipynb)
+    - [CNN Model Library](https://github.com/maessery/SETI-Radio-Signal-Image-Classification/tree/main/Model%20Library)
+    - [Exploratory Data Analysis](https://github.com/maessery/SETI-Radio-Signal-Image-Classification/blob/main/Notebooks/seti-exploratory-data-analysis.ipynb)
+    - [Final Model](https://github.com/maessery/SETI-Radio-Signal-Image-Classification/blob/main/Notebooks/SETI-%20Ensemble%20Model.ipynb)
 
 
 
