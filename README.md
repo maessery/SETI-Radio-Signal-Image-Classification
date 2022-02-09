@@ -13,7 +13,7 @@ Since humans could first postulate about outer space, our imaginations have been
 3. Notebooks  
     - [CNN Model Library](https://github.com/maessery/SETI-Radio-Signal-Image-Classification/tree/main/Model%20Library)
     - [Exploratory Data Analysis](https://github.com/maessery/SETI-Radio-Signal-Image-Classification/blob/main/Notebooks/seti-exploratory-data-analysis.ipynb)
-    - [Final Model](https://github.com/maessery/SETI-Radio-Signal-Image-Classification/blob/main/Notebooks/SETI-%20Ensemble%20Model.ipynb)
+    - [Final Model](https://github.com/maessery/SETI-Radio-Signal-Image-Classification/blob/main/seti-deep-learning-signal-image-processing.ipynb)
 
 
 
