@@ -8,7 +8,7 @@ Since humans could first postulate about outer space, our imaginations have been
     - [Images](https://www.kaggle.com/tentotheminus9/seti-data)
 
 2. Documents
-    - [Final Report](https://docs.google.com/document/d/14Gic_16qEgUQGUonp4LaZ705UrPasQe-BGcTkaDQsqQ/edit?usp=sharing)
+    - [Report](https://docs.google.com/document/d/14Gic_16qEgUQGUonp4LaZ705UrPasQe-BGcTkaDQsqQ/edit?usp=sharing)
     - [Presentation](https://docs.google.com/presentation/d/1TPcuEFrVLo_sMPPajqpGhc4c2OlM9zEsl6hoXCvYbfs/edit?usp=sharing)
 3. Notebooks  
     - [CNN Model Library](https://github.com/maessery/SETI-Radio-Signal-Image-Classification/tree/main/Model%20Library)
